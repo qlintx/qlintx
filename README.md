@@ -1,47 +1,42 @@
-<h1 align="center">Hey, I'm qlintx 👾</h1>
+## 
 
-<p align="center">
-  🧠 17 y/o developer | Python Enthusiast 🐍<br>
-  👨‍💻 Malware Dev • OSINT • Discord Bots • CLI Tools<br>
-  🔍 Breaking, building & learning since day one.
-</p>
+```
+        _ _       _        
+   __ _| (_)_ __ | |___  __
+  / _` | | | '_ \| __\ \/ /
+ | (_| | | | | | | |_ >  < 
+  \__, |_|_|_| |_|\__/_/\_\
+     |_|                   
+```
 
----
+## Hi there! 👋
 
-### 🛠️ What I Do
-- 🐍 Python is my main language – from automation to low-level stuff
-- 🕵️‍♂️ Building OSINT and info-gathering tools
-- 🤖 Crafting Discord bots with clean and modular design
-- 💻 Writing CLI apps with a terminal-first mindset
-- 🧬 Exploring malware development (for **educational** purposes)
+I'm **QLINTX**, a passionate Python coder and developer. I specialize in creating Discord bots, malware analysis tools, and OSINT tools. Let's code some amazing projects together!
 
----
+## About Me
 
-### 🚀 Tools & Tech
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash)
+Based in the **Germany**, I'm the Owner of **shadowbyte** and enjoy diving into coding challenges. My journey in programming has led me to explore various domains, and I'm excited to keep pushing my boundaries!
 
----
+## Skills & Technologies
 
-### 📂 Featured Projects
-> 🔗 Check out my pinned repos for:
-- ⚔️ Custom Python Malware / Crypters
-- 🧠 OSINT tools with real-world use cases
-- 🛠️ Multi-purpose Discord bots
-- 🎛️ Terminal interfaces (like RedTiger-style UIs)
+[![My Skills](https://skillicons.dev/icons?i=linux,py,js,php,sqlite,mysql,postgres,pycharm,phpstorm,webstorm,arch,cloudflare,discordjs,discord&perline=8)](https://skillicons.dev)
 
----
+## Top Projects
 
-### 🌐 Connect
-- 🕶️ Always learning. Always building.
-- 🧑‍💻 Not a script kiddie – I write my own scripts.
-- 💬 DM open on Discord if you want to collab or chat tech
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/qlintx/qlintx/output/github-metrics.svg" alt="Metrics" width="90%">
-</p>
+## GitHub Stats
+📊 **Public Repositories:** 1  
+👥 **Followers:** 0  
+👤 **Following:** 0  
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qlintx&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qlintx&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts to share. Stay tuned for future updates!
+
+## Connect with Me
+
+<a href="https://discord.gg/shadowbyteofficial" target="_blank" rel="noopener noreferrer"><Icon /> Discord</a>
